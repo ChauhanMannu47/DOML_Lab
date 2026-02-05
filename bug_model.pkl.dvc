@@ -1,5 +1,5 @@
 outs:
-- md5: 3488c88675eed2dfbee00f47f452ddbe
-  size: 93473
+- md5: 4d0e68244aa909b3bfd14b0c54bfd951
+  size: 97697
   hash: md5
   path: bug_model.pkl
