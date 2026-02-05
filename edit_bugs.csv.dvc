@@ -1,0 +1,5 @@
+outs:
+- md5: 05c4fd50ec0fbfd0fd8f74170206e1a1
+  size: 378
+  hash: md5
+  path: edit_bugs.csv
